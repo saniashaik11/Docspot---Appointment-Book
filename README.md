@@ -4,13 +4,6 @@
 
 ---
 
-## 🚀 Live Demo
-
-> *(Optional: Add deployment link here if hosted)*
-> Example: [Live Demo](https://docspot.example.com)
-
----
-
 ## 📌 Features
 
 ### 👨‍⚕️ Doctor
